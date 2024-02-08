@@ -8,13 +8,13 @@ function App() {
   return (
     <>
       {/* {Accordian} */}
-      <Accordian />
+      {/* <Accordian /> */}
       {/* {RandomColor Component} */}
-      <RandomColor />
+      {/* <RandomColor /> */}
       {/* {Star Rating} */}
-      <StarRating noOfStars={10} />
+      {/* <StarRating noOfStars={10} /> */}
       {/* Image Slider  */}
-      <ImageSlider url={"https://picsum.photos/v2/list"} page={1} limit={10} />
+      {/* <ImageSlider url={"https://picsum.photos/v2/list"} page={1} limit={10} /> */}
     </>
   );
 }
