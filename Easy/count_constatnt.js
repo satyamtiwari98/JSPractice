@@ -6,6 +6,7 @@ const countConsonants = (str) => {
 
   for (let i = 0; i < str.length; i++) {
     const currentChar = str.charAt(i);
+    // const currentChar = str[i];
 
     if (consonants.indexOf(currentChar) !== -1) {
       // If the current character is a consonant, increment the count

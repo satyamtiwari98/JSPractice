@@ -4,3 +4,4 @@ let sl = number.slice(1, 4);
 
 console.log(number);
 console.log(sl);
+console.log(number);
